@@ -1,0 +1,42 @@
+[
+  {
+    "diagnosis": "twisted ankle",
+    "medications": [
+      "advil"
+    ],
+    "lab_values": {
+      "MRI": "clear"
+    },
+    "confidence": 0.99
+  },
+  {
+    "diagnosis": "twisted ankle",
+    "medications": [
+      "advil"
+    ],
+    "lab_values": {
+      "MRI": "clear"
+    },
+    "confidence": 0.99
+  },
+  {
+    "diagnosis": "twisted ankle",
+    "medications": [
+      "advil"
+    ],
+    "lab_values": {
+      "MRI": "clear"
+    },
+    "confidence": 0.99
+  },
+  {
+    "diagnosis": "twisted ankle",
+    "medications": [
+      "advil"
+    ],
+    "lab_values": {
+      "MRI": "clear"
+    },
+    "confidence": 0.99
+  }
+]
